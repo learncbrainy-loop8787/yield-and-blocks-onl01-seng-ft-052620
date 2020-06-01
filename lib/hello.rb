@@ -1,7 +1,6 @@
 def hello_t(names)
   i = 0
-while i < names.length
-yeild names[3]
+while i < names.length[3]
 i = i + 1
 end
 
