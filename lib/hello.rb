@@ -1,7 +1,7 @@
 def hello_t(names)
   i = 0
 while i < names.length
-puts i
+yeild names[i]
 i = i + 1
 end
 names
