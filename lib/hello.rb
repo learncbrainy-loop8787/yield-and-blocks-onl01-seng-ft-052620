@@ -4,7 +4,7 @@ while i < names.length
 yeild names[i]
 i = i + 1
 end
-names
+hello_t(names)
 end
 
 # call your method here!
